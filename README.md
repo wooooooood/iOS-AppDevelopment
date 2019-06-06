@@ -1,7 +1,8 @@
 <h1>iOS App Development</h1>
 
 - Attended course (2019.03 - 2019.05)
-- Learn basic of iOS, Swift, and Cocoa Touch Framework  
+- Learn basic of iOS, Swift, and Cocoa Touch Framework
+- Directory <strong>Practice</strong> contains practice codes
 
 <br>
 <br>
