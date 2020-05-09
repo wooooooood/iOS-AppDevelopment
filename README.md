@@ -20,11 +20,3 @@
   - Can check past records if needed
 
 - Checkbox button Open license : https://github.com/chrisamanse/CheckboxButton
-
-<br>
-<br>
-<br>
-<h3>2. About Code Fragments</h3>
-
-- with Xamarin Forms, C#
-- for Record, Reuse, to Keep in mind
